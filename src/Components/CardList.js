@@ -3,9 +3,6 @@ import Card from '../Components/Card';
 
 
 const CardList = ({ robots }) => {
-    if (true) {
-        throw new Error('NOOOOOOOOO!')
-    }
     return (
     <div>
         {
